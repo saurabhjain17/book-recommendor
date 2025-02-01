@@ -1,2 +1,6 @@
-# book-recommendor
-an gradio app for book recomendation using nlp and llm
+---
+title: Book_Recommendor
+app_file: gradio-dashboard.py
+sdk: gradio
+sdk_version: 5.14.0
+---
